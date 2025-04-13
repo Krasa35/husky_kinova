@@ -1,6 +1,7 @@
 _cache/build/*
 _cache/install/*
 _cache/log/*
+output/*
 
 !_cache/build/.gitkeep
 !_cache/install/.gitkeep
